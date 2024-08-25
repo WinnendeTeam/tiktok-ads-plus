@@ -10,7 +10,7 @@
 	},
 	"permissions": [],
 	"host_permissions": [
-		"*://*/*"
+		"https://ads.tiktok.com/*"
 	],
 	"content_scripts": [
 		{
