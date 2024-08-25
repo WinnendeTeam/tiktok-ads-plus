@@ -18,7 +18,7 @@ function init() {
 	} else {
 		console.log("TikTok Ads+ | No Refresh Button Available.");
 
-		setTimeout(init, 1000);
+		setTimeout(init, 10000);
 	}
 }
 
