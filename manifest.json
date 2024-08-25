@@ -9,9 +9,6 @@
 		"128": "logo/logo-128.png"
 	},
 	"permissions": [],
-	"host_permissions": [
-		"https://ads.tiktok.com/*"
-	],
 	"content_scripts": [
 		{
 			"run_at": "document_end",
